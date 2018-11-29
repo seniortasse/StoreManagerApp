@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5996523841",
+    "firebase_url": "https://storemanagementapp-789a4.firebaseio.com",
+    "project_id": "storemanagementapp-789a4",
+    "storage_bucket": "storemanagementapp-789a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5996523841:android:411c42afce3bbb1b",
+        "android_client_info": {
+          "package_name": "com.example.seniortasse.storemanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5996523841-qb0u6de0mptrigbujnrmivje0gk5leob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seniortasse.storemanagementapp",
+            "certificate_hash": "bbd147d8b9cf418185b69d223a7cebf0f44f2ad5"
+          }
+        },
+        {
+          "client_id": "5996523841-5o8pe58la0c1k35uarkltun5hk94di23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVCtP70mW4ROesLWwRqpYgrPJ3qqkbQ8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5996523841-5o8pe58la0c1k35uarkltun5hk94di23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
