@@ -64,11 +64,10 @@
         android:layout_centerVertical="true"
         android:layout_marginTop="39dp"
         android:gravity="center_horizontal"
-        android:text="TextView"
+        android:text="Welcome to your Store Manager"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:typeface="sans"
-        tools:text="Welcome to your Store Manager" />
+        android:typeface="sans" />
 
 
 </RelativeLayout>

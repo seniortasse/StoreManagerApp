@@ -17,11 +17,10 @@
         android:layout_centerVertical="true"
         android:layout_marginTop="39dp"
         android:gravity="center_horizontal"
-        android:text="TextView"
+        android:text="Add Inventory"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:typeface="sans"
-        tools:text="Add Inventory" />
+        android:typeface="sans" />
 
     <Button
         android:id="@+id/buttonReturnHome2"

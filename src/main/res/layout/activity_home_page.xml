@@ -17,19 +17,19 @@
         android:layout_centerVertical="true"
         android:layout_marginTop="39dp"
         android:gravity="center_horizontal"
-        android:text="TextView"
+        android:text="Store Manager Home"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:typeface="sans"
-        tools:text="Store Manager Home" />
+        android:typeface="sans" />
 
     <Button
         android:id="@+id/buttonInventoryCheck"
         android:layout_width="180dp"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="151dp"
+        android:layout_marginBottom="331dp"
         android:text="Inventory Check" />
 
     <Button
@@ -38,7 +38,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="205dp"
+        android:layout_marginBottom="210dp"
         android:text="Add Inventory" />
 
     <Button
